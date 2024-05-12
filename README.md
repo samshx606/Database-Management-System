@@ -8,8 +8,8 @@
 
 >- Data storage: Store and organize data in text file.
 >- Data retrieval: Retrieve specific information from the database using queries.
->	-Searcing for specific data.
->	-Sorting data by a specific element.
+>	- Searcing for specific data.
+>	- Sorting data by a specific element.
 >- Data manipulation: Modify existing data and perform calculations or transformations.
 
 
